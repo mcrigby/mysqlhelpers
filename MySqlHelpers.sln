@@ -7,8 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CutilloRigby.MySql", "Cutil
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Build", "Build", "{B140F0E6-84A3-4161-9CF1-CAE961EC4AB7}"
 	ProjectSection(SolutionItems) = preProject
-		..\EFCoreExtensions\azure-pipelines.yml = ..\EFCoreExtensions\azure-pipelines.yml
-		..\EFCoreExtensions\nuget.config = ..\EFCoreExtensions\nuget.config
+		azure-pipelines.yml = azure-pipelines.yml
+		nuget.config = nuget.config
 	EndProjectSection
 EndProject
 Global
